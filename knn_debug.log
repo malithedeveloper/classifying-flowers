@@ -1,0 +1,208 @@
+--- KNN İRİS SINIFLANDIRMA BAŞLATILDI ---
+
+cicek 1 yuklendi: [6.10, 2.80, 4.70, 1.20] -> Iris-Versicolor
+cicek 2 yuklendi: [5.70, 3.80, 1.70, 0.30] -> Iris-Setosa
+cicek 3 yuklendi: [7.70, 2.60, 6.90, 2.30] -> Iris-Virginica
+cicek 4 yuklendi: [6.00, 2.90, 4.50, 1.50] -> Iris-Versicolor
+cicek 5 yuklendi: [6.80, 2.80, 4.80, 1.40] -> Iris-Versicolor
+cicek 6 yuklendi: [5.40, 3.40, 1.50, 0.40] -> Iris-Setosa
+cicek 7 yuklendi: [5.60, 2.90, 3.60, 1.30] -> Iris-Versicolor
+cicek 8 yuklendi: [6.90, 3.10, 5.10, 2.30] -> Iris-Virginica
+cicek 9 yuklendi: [6.20, 2.20, 4.50, 1.50] -> Iris-Versicolor
+cicek 10 yuklendi: [5.80, 2.70, 3.90, 1.20] -> Iris-Versicolor
+cicek 11 yuklendi: [6.50, 3.20, 5.10, 2.00] -> Iris-Virginica
+cicek 12 yuklendi: [4.80, 3.00, 1.40, 0.10] -> Iris-Setosa
+cicek 13 yuklendi: [5.50, 3.50, 1.30, 0.20] -> Iris-Setosa
+cicek 14 yuklendi: [4.90, 3.10, 1.50, 0.10] -> Iris-Setosa
+cicek 15 yuklendi: [5.10, 3.80, 1.50, 0.30] -> Iris-Setosa
+cicek 16 yuklendi: [6.30, 3.30, 4.70, 1.60] -> Iris-Versicolor
+cicek 17 yuklendi: [6.50, 3.00, 5.80, 2.20] -> Iris-Virginica
+cicek 18 yuklendi: [5.60, 2.50, 3.90, 1.10] -> Iris-Versicolor
+cicek 19 yuklendi: [5.70, 2.80, 4.50, 1.30] -> Iris-Versicolor
+cicek 20 yuklendi: [6.40, 2.80, 5.60, 2.20] -> Iris-Virginica
+cicek 21 yuklendi: [4.70, 3.20, 1.60, 0.20] -> Iris-Setosa
+cicek 22 yuklendi: [6.10, 3.00, 4.90, 1.80] -> Iris-Virginica
+cicek 23 yuklendi: [5.00, 3.40, 1.60, 0.40] -> Iris-Setosa
+cicek 24 yuklendi: [6.40, 2.80, 5.60, 2.10] -> Iris-Virginica
+cicek 25 yuklendi: [7.90, 3.80, 6.40, 2.00] -> Iris-Virginica
+cicek 26 yuklendi: [6.70, 3.00, 5.20, 2.30] -> Iris-Virginica
+cicek 27 yuklendi: [6.70, 2.50, 5.80, 1.80] -> Iris-Virginica
+cicek 28 yuklendi: [6.80, 3.20, 5.90, 2.30] -> Iris-Virginica
+cicek 29 yuklendi: [4.80, 3.00, 1.40, 0.30] -> Iris-Setosa
+cicek 30 yuklendi: [4.80, 3.10, 1.60, 0.20] -> Iris-Setosa
+cicek 31 yuklendi: [4.60, 3.60, 1.00, 0.20] -> Iris-Setosa
+cicek 32 yuklendi: [5.70, 4.40, 1.50, 0.40] -> Iris-Setosa
+cicek 33 yuklendi: [6.70, 3.10, 4.40, 1.40] -> Iris-Versicolor
+cicek 34 yuklendi: [4.80, 3.40, 1.60, 0.20] -> Iris-Setosa
+cicek 35 yuklendi: [4.40, 3.20, 1.30, 0.20] -> Iris-Setosa
+cicek 36 yuklendi: [6.30, 2.50, 5.00, 1.90] -> Iris-Virginica
+cicek 37 yuklendi: [6.40, 3.20, 4.50, 1.50] -> Iris-Versicolor
+cicek 38 yuklendi: [5.20, 3.50, 1.50, 0.20] -> Iris-Setosa
+cicek 39 yuklendi: [5.00, 3.60, 1.40, 0.20] -> Iris-Setosa
+cicek 40 yuklendi: [5.20, 4.10, 1.50, 0.10] -> Iris-Setosa
+cicek 41 yuklendi: [5.80, 2.70, 5.10, 1.90] -> Iris-Virginica
+cicek 42 yuklendi: [6.00, 3.40, 4.50, 1.60] -> Iris-Versicolor
+cicek 43 yuklendi: [6.70, 3.10, 4.70, 1.50] -> Iris-Versicolor
+cicek 44 yuklendi: [5.40, 3.90, 1.30, 0.40] -> Iris-Setosa
+cicek 45 yuklendi: [5.40, 3.70, 1.50, 0.20] -> Iris-Setosa
+cicek 46 yuklendi: [5.50, 2.40, 3.70, 1.00] -> Iris-Versicolor
+cicek 47 yuklendi: [6.30, 2.80, 5.10, 1.50] -> Iris-Virginica
+cicek 48 yuklendi: [6.40, 3.10, 5.50, 1.80] -> Iris-Virginica
+cicek 49 yuklendi: [6.60, 3.00, 4.40, 1.40] -> Iris-Versicolor
+cicek 50 yuklendi: [7.20, 3.60, 6.10, 2.50] -> Iris-Virginica
+cicek 51 yuklendi: [5.70, 2.90, 4.20, 1.30] -> Iris-Versicolor
+cicek 52 yuklendi: [7.60, 3.00, 6.60, 2.10] -> Iris-Virginica
+cicek 53 yuklendi: [5.60, 3.00, 4.50, 1.50] -> Iris-Versicolor
+cicek 54 yuklendi: [5.10, 3.50, 1.40, 0.20] -> Iris-Setosa
+cicek 55 yuklendi: [7.70, 2.80, 6.70, 2.00] -> Iris-Virginica
+cicek 56 yuklendi: [5.80, 2.70, 4.10, 1.00] -> Iris-Versicolor
+cicek 57 yuklendi: [5.20, 3.40, 1.40, 0.20] -> Iris-Setosa
+cicek 58 yuklendi: [5.00, 3.50, 1.30, 0.30] -> Iris-Setosa
+cicek 59 yuklendi: [5.10, 3.80, 1.90, 0.40] -> Iris-Setosa
+cicek 60 yuklendi: [5.00, 2.00, 3.50, 1.00] -> Iris-Versicolor
+cicek 61 yuklendi: [6.30, 2.70, 4.90, 1.80] -> Iris-Virginica
+cicek 62 yuklendi: [4.80, 3.40, 1.90, 0.20] -> Iris-Setosa
+cicek 63 yuklendi: [5.00, 3.00, 1.60, 0.20] -> Iris-Setosa
+cicek 64 yuklendi: [5.10, 3.30, 1.70, 0.50] -> Iris-Setosa
+cicek 65 yuklendi: [5.60, 2.70, 4.20, 1.30] -> Iris-Versicolor
+cicek 66 yuklendi: [5.10, 3.40, 1.50, 0.20] -> Iris-Setosa
+cicek 67 yuklendi: [5.70, 3.00, 4.20, 1.20] -> Iris-Versicolor
+cicek 68 yuklendi: [7.70, 3.80, 6.70, 2.20] -> Iris-Virginica
+cicek 69 yuklendi: [4.60, 3.20, 1.40, 0.20] -> Iris-Setosa
+cicek 70 yuklendi: [6.20, 2.90, 4.30, 1.30] -> Iris-Versicolor
+cicek 71 yuklendi: [5.70, 2.50, 5.00, 2.00] -> Iris-Virginica
+cicek 72 yuklendi: [5.50, 4.20, 1.40, 0.20] -> Iris-Setosa
+cicek 73 yuklendi: [6.00, 3.00, 4.80, 1.80] -> Iris-Virginica
+cicek 74 yuklendi: [5.80, 2.70, 5.10, 1.90] -> Iris-Virginica
+cicek 75 yuklendi: [6.00, 2.20, 4.00, 1.00] -> Iris-Versicolor
+cicek 76 yuklendi: [5.40, 3.00, 4.50, 1.50] -> Iris-Versicolor
+cicek 77 yuklendi: [6.20, 3.40, 5.40, 2.30] -> Iris-Virginica
+cicek 78 yuklendi: [5.50, 2.30, 4.00, 1.30] -> Iris-Versicolor
+cicek 79 yuklendi: [5.40, 3.90, 1.70, 0.40] -> Iris-Setosa
+cicek 80 yuklendi: [5.00, 2.30, 3.30, 1.00] -> Iris-Versicolor
+cicek 81 yuklendi: [6.40, 2.70, 5.30, 1.90] -> Iris-Virginica
+cicek 82 yuklendi: [5.00, 3.30, 1.40, 0.20] -> Iris-Setosa
+cicek 83 yuklendi: [5.00, 3.20, 1.20, 0.20] -> Iris-Setosa
+cicek 84 yuklendi: [5.50, 2.40, 3.80, 1.10] -> Iris-Versicolor
+cicek 85 yuklendi: [6.70, 3.00, 5.00, 1.70] -> Iris-Versicolor
+cicek 86 yuklendi: [4.90, 3.10, 1.50, 0.20] -> Iris-Setosa
+cicek 87 yuklendi: [5.80, 2.80, 5.10, 2.40] -> Iris-Virginica
+cicek 88 yuklendi: [5.00, 3.40, 1.50, 0.20] -> Iris-Setosa
+cicek 89 yuklendi: [5.00, 3.50, 1.60, 0.60] -> Iris-Setosa
+cicek 90 yuklendi: [5.90, 3.20, 4.80, 1.80] -> Iris-Versicolor
+cicek 91 yuklendi: [5.10, 2.50, 3.00, 1.10] -> Iris-Versicolor
+cicek 92 yuklendi: [6.90, 3.20, 5.70, 2.30] -> Iris-Virginica
+cicek 93 yuklendi: [6.00, 2.70, 5.10, 1.60] -> Iris-Versicolor
+cicek 94 yuklendi: [6.10, 2.60, 5.60, 1.40] -> Iris-Virginica
+cicek 95 yuklendi: [7.70, 3.00, 6.10, 2.30] -> Iris-Virginica
+cicek 96 yuklendi: [5.50, 2.50, 4.00, 1.30] -> Iris-Versicolor
+cicek 97 yuklendi: [4.40, 2.90, 1.40, 0.20] -> Iris-Setosa
+cicek 98 yuklendi: [4.30, 3.00, 1.10, 0.10] -> Iris-Setosa
+cicek 99 yuklendi: [6.00, 2.20, 5.00, 1.50] -> Iris-Virginica
+cicek 100 yuklendi: [7.20, 3.20, 6.00, 1.80] -> Iris-Virginica
+cicek 101 yuklendi: [4.60, 3.10, 1.50, 0.20] -> Iris-Setosa
+cicek 102 yuklendi: [5.10, 3.50, 1.40, 0.30] -> Iris-Setosa
+cicek 103 yuklendi: [4.40, 3.00, 1.30, 0.20] -> Iris-Setosa
+cicek 104 yuklendi: [6.30, 2.50, 4.90, 1.50] -> Iris-Versicolor
+cicek 105 yuklendi: [6.30, 3.40, 5.60, 2.40] -> Iris-Virginica
+cicek 106 yuklendi: [4.60, 3.40, 1.40, 0.30] -> Iris-Setosa
+cicek 107 yuklendi: [6.80, 3.00, 5.50, 2.10] -> Iris-Virginica
+cicek 108 yuklendi: [6.30, 3.30, 6.00, 2.50] -> Iris-Virginica
+cicek 109 yuklendi: [4.70, 3.20, 1.30, 0.20] -> Iris-Setosa
+cicek 110 yuklendi: [6.10, 2.90, 4.70, 1.40] -> Iris-Versicolor
+cicek 111 yuklendi: [6.50, 2.80, 4.60, 1.50] -> Iris-Versicolor
+cicek 112 yuklendi: [6.20, 2.80, 4.80, 1.80] -> Iris-Virginica
+cicek 113 yuklendi: [7.00, 3.20, 4.70, 1.40] -> Iris-Versicolor
+cicek 114 yuklendi: [6.40, 3.20, 5.30, 2.30] -> Iris-Virginica
+cicek 115 yuklendi: [5.10, 3.80, 1.60, 0.20] -> Iris-Setosa
+cicek 116 yuklendi: [6.90, 3.10, 5.40, 2.10] -> Iris-Virginica
+cicek 117 yuklendi: [5.90, 3.00, 4.20, 1.50] -> Iris-Versicolor
+cicek 118 yuklendi: [6.50, 3.00, 5.20, 2.00] -> Iris-Virginica
+cicek 119 yuklendi: [5.70, 2.60, 3.50, 1.00] -> Iris-Versicolor
+cicek 120 yuklendi: [5.20, 2.70, 3.90, 1.40] -> Iris-Versicolor
+
+toplam 120 cicek biliniyor
+-Iris-Setosa: 43
+-Iris-Versicolor: 39
+-Iris-Virginica: 38
+
+test cicegi 1 yuklendi: [6.10, 3.00, 4.60, 1.40]
+test cicegi 2 yuklendi: [4.50, 2.30, 1.30, 0.30]
+test cicegi 3 yuklendi: [6.60, 2.90, 4.60, 1.30]
+test cicegi 4 yuklendi: [5.50, 2.60, 4.40, 1.20]
+test cicegi 5 yuklendi: [5.30, 3.70, 1.50, 0.20]
+
+Eğitim: 120 iris çiçeği
+Test: 30 iris çiçeği
+
+k=5
+cicek 1 (Iris-Versicolor): 0
+cicek 2 (Iris-Setosa): 3
+cicek 3 (Iris-Virginica): 3
+cicek 4 (Iris-Versicolor): 0
+cicek 5 (Iris-Versicolor): 1
+
+k=5 sonuc:
+1. mesafe: 0.1414, Iris-Versicolor
+2. mesafe: 0.2000, Iris-Versicolor
+3. mesafe: 0.3000, Iris-Versicolor
+4. mesafe: 0.3464, Iris-Versicolor
+5. mesafe: 0.3873, Iris-Versicolor
+tahmin: Iris-Versicolor
+cicek 1 (Iris-Versicolor): 4
+cicek 2 (Iris-Setosa): 2
+cicek 3 (Iris-Virginica): 7
+cicek 4 (Iris-Versicolor): 4
+cicek 5 (Iris-Versicolor): 4
+
+k=5 sonuc:
+1. mesafe: 0.6245, Iris-Setosa
+2. mesafe: 0.7141, Iris-Setosa
+3. mesafe: 0.7681, Iris-Setosa
+4. mesafe: 0.7810, Iris-Setosa
+5. mesafe: 0.7937, Iris-Setosa
+tahmin: Iris-Setosa
+cicek 1 (Iris-Versicolor): 1
+cicek 2 (Iris-Setosa): 3
+cicek 3 (Iris-Virginica): 3
+cicek 4 (Iris-Versicolor): 1
+cicek 5 (Iris-Versicolor): 0
+
+k=5 sonuc:
+1. mesafe: 0.2449, Iris-Versicolor
+2. mesafe: 0.2449, Iris-Versicolor
+3. mesafe: 0.3162, Iris-Versicolor
+4. mesafe: 0.3162, Iris-Versicolor
+5. mesafe: 0.3162, Iris-Versicolor
+tahmin: Iris-Versicolor
+cicek 1 (Iris-Versicolor): 1
+cicek 2 (Iris-Setosa): 3
+cicek 3 (Iris-Virginica): 4
+cicek 4 (Iris-Versicolor): 1
+cicek 5 (Iris-Versicolor): 1
+
+k=5 sonuc:
+1. mesafe: 0.2646, Iris-Versicolor
+2. mesafe: 0.3162, Iris-Versicolor
+3. mesafe: 0.4243, Iris-Versicolor
+4. mesafe: 0.4243, Iris-Versicolor
+5. mesafe: 0.4796, Iris-Versicolor
+tahmin: Iris-Versicolor
+cicek 1 (Iris-Versicolor): 4
+cicek 2 (Iris-Setosa): 0
+cicek 3 (Iris-Virginica): 6
+cicek 4 (Iris-Versicolor): 3
+cicek 5 (Iris-Versicolor): 4
+
+k=5 sonuc:
+1. mesafe: 0.1000, Iris-Setosa
+2. mesafe: 0.2236, Iris-Setosa
+3. mesafe: 0.2449, Iris-Setosa
+4. mesafe: 0.2449, Iris-Setosa
+5. mesafe: 0.3000, Iris-Setosa
+tahmin: Iris-Setosa
+
+=== sonuc ===
+- Iris-Setosa 7
+- Iris-Versicolor 12
+- Iris-Virginica 11
