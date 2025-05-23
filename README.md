@@ -1,8 +1,3 @@
-# 🌸 KNN Iris Classifier
-
-**Student:** Mehmet Ali DÖNMEZ  
-**Student ID:** 240101038  
-
 ## 📋 Project Overview
 
 This project implements a **K-Nearest Neighbors (KNN)** algorithm to classify Iris flowers into three species based on their physical characteristics. The classifier uses the famous Iris dataset and predicts flower species using machine learning techniques.
